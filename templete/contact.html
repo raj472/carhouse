@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>
+	Ebay,Amazon,Flipkart
+</h1>
+<p>
+	this is templete
+</p>
+
+
+<h1>
+ 
+	welcome to our contact page 
+</h1>
+
+
+
+<p>
+	{{my_text}} {{my_gmail}} {{my_list}}
+</p>
+
+<ul>
+{% for my_sub_item in my_list %}
+	{% if my_sub_item == 123 %}
+	<li>
+		{{forloop.counter}}-{{my_sub_item|add:3}}
+	</li>
+
+
+	{% elif my_sub_item == 'ab' %}
+	<li>
+		{{"this network is error"}}
+	</li>
+
+
+{%else%}
+<li>
+	{{my_sub_item}}
+</li>{%endif%}
+
+{% endfor %}
+
+</ul>
+{{my_text|title}}
+<p>
+{{my_text|upper}}
+</p>
+
+
+{% endblock content%}
+
+
+
+

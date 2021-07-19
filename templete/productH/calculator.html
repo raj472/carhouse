@@ -1,0 +1,27 @@
+<h1>
+	calculator
+</h1>
+<li>
+	here you can only operate two numbers
+</li>
+<li>
+	its an light app
+</li>
+<li>
+	here you proceed
+</li>
+<form method ='POST'> {% csrf_token %}
+{{ form.as_p}}
+<input type="submit" value="opearte"/>
+</form>
+
+<html>
+<body>
+  <form action="operation" method="GET">
+    <input type="number" value="click">
+  </form>
+  {{output}}
+</body>
+</html>
+
+

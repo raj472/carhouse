@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"ProductH"
+			],
+			[
+				"te",
+				"testing"
+			],
+			[
+				"form",
+				"from"
+			],
+			[
+				"in",
+				"initial_data"
+			],
+			[
+				"po",
+				"POST"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"dec",
+				"description"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"TExt",
+				"TextInput"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"text",
+				"text2"
+			],
+			[
+				"calc",
+				"calc2"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"max",
+				"max_digits"
+			],
+			[
+				"opear",
+				"operations"
+			],
+			[
+				"T",
+				"TextInput"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"product",
+				"productH"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"your",
+				"your_roll_no"
+			],
+			[
+				"your_",
+				"your_last_name_name"
+			],
+			[
+				"product_",
+				"product_person"
+			],
+			[
+				"color",
+				"color_view"
+			],
+			[
+				"person",
+				"Personform"
+			],
+			[
+				"P",
+				"Personform"
+			],
+			[
+				"max_",
+				"max_digits"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"my",
+				"my_context2"
+			],
+			[
+				"my_",
+				"my_text"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"colo",
+				"color_view"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"contact",
+				"contact_view"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "products/models.py",
+			"settings":
+			{
+				"buffer_size": 2397,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/admin.py",
+			"settings":
+			{
+				"buffer_size": 296,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project1/settings.py",
+			"settings":
+			{
+				"buffer_size": 3234,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kuki/raj/trydjango/venv",
+		"/home/kuki/raj/trydjango/venv/django_workshop-main",
+		"/home/kuki/raj/trydjango/venv/src",
+		"/home/kuki/raj/trydjango/venv/src/project1",
+		"/home/kuki/raj/trydjango/venv/src/project1/pages",
+		"/home/kuki/raj/trydjango/venv/src/project1/pages/migrations",
+		"/home/kuki/raj/trydjango/venv/src/project1/products",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/__pycache__",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete2",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete2/product",
+		"/home/kuki/raj/trydjango/venv/src/project1/project1",
+		"/home/kuki/raj/trydjango/venv/src/project1/project1/__pycache__",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH"
+	],
+	"file_history":
+	[
+		"/home/kuki/raj/trydjango/venv/src/project1/pages/migrations/__init__.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/views.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/form.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/project1/urls.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH/calc.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH/calculator.html",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/generic/base.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/__init__.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/__main__.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/static.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/i18n.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/defaults.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/debug.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/csrf.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/views/__init__.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH/product_person.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH/person_detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/navbar2.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/admin.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/models.py",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/core/handlers/base.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/base.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/base2.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/home.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/navbar.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/project1/settings.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete2/product/product_detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete/product/person_create.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/pages/models.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete/product/product_detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/pages/views.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/productH/detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete/product_detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/templete",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/color.html",
+		"/home/kuki/raj/trydjango/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/prodect.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/product/detail2.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/product/detail.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/migrations/__init__.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/__init__.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/products/tests.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/about.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/contact.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/price.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/templete/models.html",
+		"/home/kuki/raj/trydjango/venv/src/project1/manage.py",
+		"/home/kuki/raj/trydjango/venv/src/project1/db.sqlite3",
+		"/home/kuki/raj/trydjango/venv/src/project1/trydjango.sublime-project",
+		"/home/kuki/Desktop/test1/hello.py",
+		"/home/kuki/trash.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2397,
+								2397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "products/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project1/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3234,
+								3234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
